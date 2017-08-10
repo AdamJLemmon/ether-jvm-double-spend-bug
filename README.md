@@ -1,4 +1,4 @@
-# ether-jvm-double-spend-bug
+# Ethereum JVM Double Spend Bug
 A known bug that exists within the JVM explained.  Bug is present when utilizing Remix(solidity browser) as well as testrpc.
 
 # Bug Description
