@@ -1,0 +1,24 @@
+{
+  "contract_name": "DoubleSpendLib",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "doubleSpend",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600b57fe5b5b60578060196000396000f300606060405263ffffffff60e060020a600035041663853a8d4581146020575bfe5b60266028565b005b5b5600a165627a7a72305820198959e62f35d59e26596aaa4b375219c42aa9169730cde26b024d0cfa1389c90029",
+  "networks": {
+    "1": {
+      "events": {},
+      "links": {},
+      "address": "0x8c3aebe676f7b6511ed0197e00f8347658343a93",
+      "updated_at": 1501066801242
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1501066801242
+}

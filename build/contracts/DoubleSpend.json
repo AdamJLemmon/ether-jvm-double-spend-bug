@@ -1,0 +1,26 @@
+{
+  "contract_name": "DoubleSpend",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "doubleSpendEther",
+      "outputs": [],
+      "payable": true,
+      "type": "function"
+    }
+  ],
+  "unlinked_binary": "0x6060604052341561000c57fe5b5b60ac8061001b6000396000f300606060405263ffffffff60e060020a60003504166346a7676581146020575bfe5b60266028565b005b73__DoubleSpendLib________________________63853a8d456040518163ffffffff1660e060020a02815260040180905060006040518083038186803b1515606d57fe5b6102c65a03f41515607a57fe5b5050505b5600a165627a7a72305820bd98649ca044f13846a9315e20e0ef67941a974f6c2234594bf3ee479cc2b47c0029",
+  "networks": {
+    "1": {
+      "events": {},
+      "links": {
+        "DoubleSpendLib": "0x8c3aebe676f7b6511ed0197e00f8347658343a93"
+      },
+      "address": "0x978daf10552b92f3ee1bd8c5d991491f286aa1a8",
+      "updated_at": 1501066801242
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1501066801242
+}
