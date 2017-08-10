@@ -2,7 +2,7 @@ const DoubleSpend = artifacts.require("./DoubleSpend.sol");
 const amountToDeposit = 100;
 
 contract('DoubleSpend', accounts => {
-  it("should double speng the ether deposited, balance = msg.value * 2",
+  it("should double spend the ether deposited, balance = msg.value * 2",
   async () => {
       const doubleSpend = await DoubleSpend.deployed();
 
